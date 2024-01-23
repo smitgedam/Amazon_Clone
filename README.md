@@ -1,4 +1,4 @@
 Amazon Website Clone 
 <br>
 Used HTML/CSS
-Author- Smit Gedam
+Author- Smit Gedam(Informatrix IT)
